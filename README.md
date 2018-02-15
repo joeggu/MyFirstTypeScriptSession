@@ -1,0 +1,3 @@
+# MyFirstTypeScriptSession
+
+Test that shit
